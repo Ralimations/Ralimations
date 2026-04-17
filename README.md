@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Python-1D4ED8?style=for-the-badge" alt="Stack badge" />
 </p>
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0F766E&center=true&vCenter=true&width=700&lines=Building+front-end+interfaces+that+ship;Working+on+dashboards%2C+portals%2C+and+automation;Exploring+AI-assisted+tools+with+practical+UI+workflows" alt="Typing intro" />
+</p>
+
 </div>
 
 > I build software that is meant to be used, maintained, and shipped.
@@ -26,7 +30,24 @@
 - Experienced working across personal projects and private company work while keeping implementation practical
 - Interested in UI systems, automation, AI-assisted software, and tools that improve real workflows
 
-## Core Stack
+## Snapshot
+
+<table>
+  <tr>
+    <td><strong>Primary lane</strong></td>
+    <td>Front-end engineering, dashboards, internal tools, maintainable UI systems</td>
+  </tr>
+  <tr>
+    <td><strong>Working style</strong></td>
+    <td>Practical, product-minded, focused on clear structure and usable interfaces</td>
+  </tr>
+  <tr>
+    <td><strong>Also exploring</strong></td>
+    <td>Python tooling, AI workflows, local automation, broader full-stack capability</td>
+  </tr>
+</table>
+
+## Core Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
@@ -40,6 +61,24 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" alt="PowerShell" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=ffffff" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=ffffff" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=ffffff" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square" alt="Recharts" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=ffffff" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff" alt="PyTorch" />
+</p>
+
+## GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ralimations&show_icons=true&hide_border=true&title_color=0f766e&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralimations&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top languages" />
+</div>
 
 ## What I Work On
 
@@ -69,9 +108,11 @@
 - Expanding my public GitHub work to better reflect my actual technical range
 - Turning hands-on company and personal project experience into stronger portfolio-ready case studies
 
-## Selected Public Work
+## Featured Project
 
-### [Ralskies-OFFICIAL-WEBSITE](https://github.com/Ralimations/Ralskies-OFFICIAL-WEBSITE)
+<a href="https://github.com/Ralimations/Ralskies-OFFICIAL-WEBSITE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=Ralskies-OFFICIAL-WEBSITE&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Pinned project card" />
+</a>
 
 Vite-based website with structured content management, responsive UI, form handling, and static deployment configuration.
 
