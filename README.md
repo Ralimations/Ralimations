@@ -58,36 +58,36 @@
 ## GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ralimations&show_icons=true&hide_border=true&title_color=0f766e&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralimations&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ralimations&show_icons=true&hide_border=true&title_color=0f766e&icon_color=1d4ed8&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralimations&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="Top languages" />
 </div>
 
 ## Featured Work
 
 <div align="center">
   <a href="https://github.com/Ralimations/flexai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=flexai&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="flexai repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=flexai&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="flexai repo card" />
   </a>
   <a href="https://github.com/Ralimations/morphscale">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=morphscale&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="morphscale repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=morphscale&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="morphscale repo card" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ralimations/varbridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=varbridge&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="varbridge repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=varbridge&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="varbridge repo card" />
   </a>
   <a href="https://github.com/Ralimations/pulsevision-live-rep-counter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=pulsevision-live-rep-counter&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="pulsevision repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=pulsevision-live-rep-counter&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="pulsevision repo card" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ralimations/viana-builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=viana-builder&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="viana-builder repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=viana-builder&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="viana-builder repo card" />
   </a>
   <a href="https://github.com/Ralimations/viana-builderv2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=viana-builderv2&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="viana-builderv2 repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=viana-builderv2&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="viana-builderv2 repo card" />
   </a>
 </div>
 
