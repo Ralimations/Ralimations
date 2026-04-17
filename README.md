@@ -99,6 +99,9 @@
   <a href="https://github.com/Ralimations/guided-pose-program">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=guided-pose-program&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="guided-pose-program repo card" />
   </a>
+  <a href="https://github.com/Ralimations/face-mask-detection-arduino-alarm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=face-mask-detection-arduino-alarm&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="face-mask-detection-arduino-alarm repo card" />
+  </a>
 </div>
 
 | Project | Summary | Stack |
@@ -110,6 +113,7 @@
 | [Viana Builder](https://github.com/Ralimations/viana-builder) | Builder-style dashboard interface for dense operational layouts and modular workflows. | React, TypeScript, Vite |
 | [Viana Builder v2](https://github.com/Ralimations/viana-builder-v2) | Second builder iteration focused on structured navigation and enterprise-style UI. | React, TypeScript, Vite |
 | [Guided Pose Program](https://github.com/Ralimations/guided-pose-program) | College finals project for pose-guided exercise assistance using computer vision and audio feedback. | Python, TensorFlow Lite, OpenCV |
+| [Face Mask Detection Arduino Alarm](https://github.com/Ralimations/face-mask-detection-arduino-alarm) | Academic computer-vision project for real-time mask detection with Arduino-based LED and buzzer alert feedback. | Python, YOLOv5, OpenCV, Arduino |
 
 ## Case Studies
 
@@ -130,6 +134,9 @@
 
 - **Guided Pose Program**
   College finals project focused on pose-guided exercise assistance using computer vision, TensorFlow Lite, and audio/visual feedback. This project connects directly to my academic background at Mindanao State University in Bachelor of Science in Computer Applications, major in Embedded Systems.
+
+- **Face Mask Detection Arduino Alarm**
+  Academic embedded-systems project combining YOLOv5-based face mask detection with Arduino-driven LED and buzzer alerts. It reflects hands-on work across webcam input, serial communication, and hardware-connected feedback loops.
 
 ## What I Build
 
