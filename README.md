@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><strong>Academic background</strong></td>
-    <td>Student under Computer Applications, Major in Embedded Systems</td>
+    <td>Mindanao State University student taking Bachelor of Science in Computer Applications, major in Embedded Systems</td>
   </tr>
   <tr>
     <td><strong>Primary lane</strong></td>
@@ -129,7 +129,7 @@
   Builder-style dashboard interfaces exploring dense operational layouts, modular navigation, and CMS-like patterns. These are closer to internal-tool thinking: structure, hierarchy, data visibility, and workflow density.
 
 - **Guided Pose Program**
-  College finals project focused on pose-guided exercise assistance using computer vision, TensorFlow Lite, and audio/visual feedback. This project connects more directly to my academic background in Computer Applications with an Embedded Systems focus.
+  College finals project focused on pose-guided exercise assistance using computer vision, TensorFlow Lite, and audio/visual feedback. This project connects directly to my academic background at Mindanao State University in Bachelor of Science in Computer Applications, major in Embedded Systems.
 
 ## What I Build
 
