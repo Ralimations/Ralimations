@@ -1,25 +1,13 @@
 <div align="center">
 
-# Ralimations
+<img src="./assets/profile-banner.svg" alt="Ralimations banner" width="100%" />
 
 ### Front-End Developer • Dashboard Builder • AI Workflow Explorer
-
-<p>
-  <a href="https://github.com/Ralimations">
-    <img src="https://img.shields.io/badge/GitHub-Ralimations-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Vite-0F766E?style=for-the-badge" alt="Frontend badge" />
-  <img src="https://img.shields.io/badge/Focus-Dashboards%20%26%20Internal%20Tools-1D4ED8?style=for-the-badge" alt="Focus badge" />
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1100&color=0F766E&center=true&vCenter=true&width=820&lines=Building+front-end+interfaces+that+are+meant+to+ship;Creating+dashboards%2C+builder+tools%2C+and+AI-assisted+apps;Turning+practical+ideas+into+usable+web+products" alt="Typing intro" />
-</p>
 
 </div>
 
 > I build software that is meant to be used, maintained, and shipped.  
-> My work spans front-end product work, internal tools, AI-assisted experiments, dashboard interfaces, and workflow automation.
+> My work spans front-end product work, dashboard interfaces, internal tools, AI-assisted experiments, and practical workflow automation.
 
 ---
 
@@ -44,29 +32,27 @@
   </tr>
 </table>
 
-## Core Stack
+## Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=ffffff" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-0F172A?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-0F172A?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=74C0FC" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=ffffff" alt="React Router" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=ffffff" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=ffffff" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square" alt="Recharts" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Radix_UI-111827?style=flat-square" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/React_Router-111827?style=flat-square&logo=reactrouter&logoColor=F87171" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-111827?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-111827?style=flat-square&logoColor=93C5FD" alt="Zod" />
+  <img src="https://img.shields.io/badge/Framer_Motion-111827?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Recharts-111827?style=flat-square" alt="Recharts" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
 </p>
 
 ## GitHub Overview
@@ -105,6 +91,23 @@
   </a>
 </div>
 
+## Case Studies
+
+- **FlexAI**
+  Fitness-focused front-end concept combining AI-assisted food analysis, tracking flows, and planning-oriented UX. Built to explore how utility, data, and guided interactions can live inside a cleaner product interface.
+
+- **MorphScale**
+  Visual transformation tracker built around camera alignment and progress capture. The core idea is consistency in input and clearer visual feedback over time, with packaging work that leans toward mobile-oriented usage.
+
+- **VarBridge**
+  Developer-facing utility for mapping backend schema variables to frontend aliases. This project leans more toward tooling and systems clarity than visual polish, with a focus on reducing integration drift across layers.
+
+- **PulseVision Live Rep Counter**
+  AI-assisted workout tracker using camera-enabled flows for rep counting and live exercise feedback. It reflects my interest in combining interaction design with model-driven experiences that feel usable rather than gimmicky.
+
+- **Viana Builder / Viana Builder v2**
+  Builder-style dashboard interfaces exploring dense operational layouts, modular navigation, and CMS-like patterns. These are closer to internal-tool thinking: structure, hierarchy, data visibility, and workflow density.
+
 ## What I Build
 
 | Category | Focus |
@@ -114,14 +117,6 @@
 | AI-assisted apps | Tools that combine interface work with model-driven or camera-driven workflows |
 | Builder-style systems | CMS-like or dashboard-builder interfaces for structured content and operational use cases |
 | Automation | PowerShell-driven maintenance, content sync, and practical workflow improvements |
-
-## Project Notes
-
-- **FlexAI**: fitness-focused app combining AI-assisted food analysis, tracking, and planning workflows
-- **MorphScale**: visual transformation tracker with camera-aligned fitness progress capture and mobile-oriented packaging
-- **VarBridge**: developer tool for mapping backend schemas to frontend aliases and reducing integration drift
-- **PulseVision Live Rep Counter**: AI-assisted exercise tracking and rep counting with camera-enabled workflows
-- **Viana Builder / Viana Builder v2**: builder-style interfaces exploring dense operational layouts, modular navigation, and CMS-like structures
 
 ## Work Across Accounts
 
@@ -134,6 +129,12 @@
   [dashboard-todo](https://github.com/Ralisma/dashboard-todo),
   [OJT_TASK-1_INTRO-Login_Register_Dashboard](https://github.com/Ralthology/OJT_TASK-1_INTRO-Login_Register_Dashboard)
 - Additional company and private work is represented here through skills, tooling, and work categories when direct repository sharing is not appropriate
+
+## Now Building
+
+- Sharpening portfolio-quality front-end projects with stronger UX polish
+- Expanding from static and dashboard work into more tool-like products
+- Exploring AI-assisted interfaces that still feel practical and product-minded
 
 ## Contact
 

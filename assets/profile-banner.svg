@@ -1,0 +1,46 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ralimations profile banner</title>
+  <desc id="desc">A teal and blue portfolio banner with the text Ralimations, Front-End Developer, Dashboard Builder, and AI Workflow Explorer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1180" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#0D1B2D"/>
+      <stop offset="1" stop-color="#10253A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="218" y1="48" x2="1045" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <filter id="blur" x="-40" y="-40" width="1360" height="440" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+
+  <g opacity="0.6" filter="url(#blur)">
+    <circle cx="214" cy="80" r="90" fill="#2DD4BF"/>
+    <circle cx="1060" cy="280" r="110" fill="#2563EB"/>
+    <circle cx="884" cy="92" r="56" fill="#14B8A6"/>
+  </g>
+
+  <path d="M72 288C166 232 262 204 374 184C530 154 632 169 760 128C860 96 958 73 1116 56" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+  <path d="M64 309C186 250 314 236 430 221C589 200 724 202 846 170C954 142 1049 126 1198 116" stroke="#93C5FD" stroke-width="1.5" stroke-linecap="round" opacity="0.45"/>
+
+  <rect x="68" y="60" width="210" height="32" rx="16" fill="rgba(255,255,255,0.08)"/>
+  <text x="92" y="81" fill="#C7D2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Portfolio README</text>
+
+  <text x="72" y="156" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">Ralimations</text>
+  <text x="72" y="194" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Front-End Developer • Dashboard Builder • AI Workflow Explorer</text>
+  <text x="72" y="236" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    <tspan x="72" dy="0">Building front-end products, dashboard interfaces, internal tools,</tspan>
+    <tspan x="72" dy="30">and AI-assisted experiences that are designed to ship.</tspan>
+  </text>
+
+  <g transform="translate(868 178)">
+    <rect width="340" height="108" rx="22" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.1)"/>
+    <text x="24" y="36" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Current Focus</text>
+    <text x="24" y="63" fill="#A5F3FC" font-family="Segoe UI, Arial, sans-serif" font-size="14">React • TypeScript • Vite</text>
+    <text x="24" y="86" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Dashboards • Builder Tools • AI UX</text>
+  </g>
+</svg>
