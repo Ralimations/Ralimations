@@ -129,14 +129,9 @@
 
 ## Work Across Accounts
 
-- Other GitHub accounts used for project work: [@Ralthology](https://github.com/Ralthology) and [@Ralisma](https://github.com/Ralisma)
-- Cross-account personal work includes:
-  [rhythme](https://github.com/Ralthology/rhythme),
-  [local-builder](https://github.com/Ralisma/local-builder),
-  [muse_writing_partner](https://github.com/Ralisma/muse_writing_partner),
-  [Vite_Dashboard](https://github.com/Ralisma/Vite_Dashboard),
-  [dashboard-todo](https://github.com/Ralisma/dashboard-todo),
-  [OJT_TASK-1_INTRO-Login_Register_Dashboard](https://github.com/Ralthology/OJT_TASK-1_INTRO-Login_Register_Dashboard)
+- My main public portfolio work is now being consolidated under [@Ralimations](https://github.com/Ralimations)
+- Older GitHub accounts used for project history include [@Ralthology](https://github.com/Ralthology) and [@Ralisma](https://github.com/Ralisma)
+- Several previously cross-account personal projects have now been republished under `Ralimations`, including `rhythme`, `local-builder`, `muse_writing_partner`, `Vite_Dashboard`, `dashboard-todo`, and `OJT_TASK-1_INTRO-Login_Register_Dashboard`
 - Additional company and private work is represented here through skills, tooling, and work categories when direct repository sharing is not appropriate
 
 ## Now Building
