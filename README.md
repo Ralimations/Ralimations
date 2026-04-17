@@ -90,8 +90,8 @@
   <a href="https://github.com/Ralimations/viana-builder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=viana-builder&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="viana-builder repo card" />
   </a>
-  <a href="https://github.com/Ralimations/viana-builderv2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=viana-builderv2&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="viana-builderv2 repo card" />
+  <a href="https://github.com/Ralimations/viana-builder-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=viana-builder-v2&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="viana-builder-v2 repo card" />
   </a>
 </div>
 
@@ -108,7 +108,7 @@
 | [VarBridge](https://github.com/Ralimations/varbridge) | Developer utility for translating backend schema variables into frontend-friendly aliases. | React, TypeScript, Vite |
 | [PulseVision Live Rep Counter](https://github.com/Ralimations/pulsevision-live-rep-counter) | Vision-based workout tracker with AI-assisted rep counting and feedback workflows. | React, TypeScript, Vite |
 | [Viana Builder](https://github.com/Ralimations/viana-builder) | Builder-style dashboard interface for dense operational layouts and modular workflows. | React, TypeScript, Vite |
-| [Viana Builder v2](https://github.com/Ralimations/viana-builderv2) | Second builder iteration focused on structured navigation and enterprise-style UI. | React, TypeScript, Vite |
+| [Viana Builder v2](https://github.com/Ralimations/viana-builder-v2) | Second builder iteration focused on structured navigation and enterprise-style UI. | React, TypeScript, Vite |
 | [Guided Pose Program](https://github.com/Ralimations/guided-pose-program) | College finals project for pose-guided exercise assistance using computer vision and audio feedback. | Python, TensorFlow Lite, OpenCV |
 
 ## Case Studies
@@ -145,7 +145,7 @@
 
 - My main public portfolio work is now being consolidated under [@Ralimations](https://github.com/Ralimations)
 - Older GitHub accounts used for project history include [@Ralthology](https://github.com/Ralthology) and [@Ralisma](https://github.com/Ralisma)
-- Several previously cross-account personal projects have now been republished under `Ralimations`, including `rhythme`, `local-builder`, `muse_writing_partner`, `Vite_Dashboard`, `dashboard-todo`, and `OJT_TASK-1_INTRO-Login_Register_Dashboard`
+- Several previously cross-account personal projects have now been republished under `Ralimations`, including `rhythme`, `local-builder`, `muse_writing_partner`, `vite-dashboard`, `dashboard-todo`, and `login-register-dashboard`
 - Additional company and private work is represented here through skills, tooling, and work categories when direct repository sharing is not appropriate
 
 ## Now Building
