@@ -91,6 +91,15 @@
   </a>
 </div>
 
+| Project | Summary | Stack |
+| --- | --- | --- |
+| [FlexAI](https://github.com/Ralimations/flexai) | Fitness-focused app combining AI-assisted food analysis, tracking, and planning flows. | React, TypeScript, Vite |
+| [MorphScale](https://github.com/Ralimations/morphscale) | Visual transformation tracker with aligned progress capture and mobile-oriented packaging. | React, TypeScript, Vite, Capacitor |
+| [VarBridge](https://github.com/Ralimations/varbridge) | Developer utility for translating backend schema variables into frontend-friendly aliases. | React, TypeScript, Vite |
+| [PulseVision Live Rep Counter](https://github.com/Ralimations/pulsevision-live-rep-counter) | Vision-based workout tracker with AI-assisted rep counting and feedback workflows. | React, TypeScript, Vite |
+| [Viana Builder](https://github.com/Ralimations/viana-builder) | Builder-style dashboard interface for dense operational layouts and modular workflows. | React, TypeScript, Vite |
+| [Viana Builder v2](https://github.com/Ralimations/viana-builderv2) | Second builder iteration focused on structured navigation and enterprise-style UI. | React, TypeScript, Vite |
+
 ## Case Studies
 
 - **FlexAI**
