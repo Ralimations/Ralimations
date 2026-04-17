@@ -26,8 +26,10 @@
 ## About Me
 
 - Front-end developer with hands-on work in JavaScript, TypeScript, React, HTML, CSS, and Vite
+- 5 months of front-end development experience through hands-on product and internal-tool work
 - Comfortable building dashboards, internal portals, static websites, and content-driven front ends
 - Experienced working across personal projects and private company work while keeping implementation practical
+- Worked with AI Boxes and edge-device related projects at Meld CX Skunkworks
 - Interested in UI systems, automation, AI-assisted software, and tools that improve real workflows
 
 ## Snapshot
@@ -95,7 +97,9 @@
 
 - Built and maintained Vite-based websites with centralized JSON content, responsive layouts, and static deployment setup
 - Worked on React and TypeScript dashboards with routing, charting, drag-and-drop interactions, forms, validation, and reusable UI components
-- Contributed to private company-facing portal and dashboard work involving large front-end surfaces, operational views, and internal workflows
+- Contributed to company-facing portal and dashboard work involving large front-end surfaces, operational views, and internal workflows
+- Worked on AI Box and edge-device related initiatives at Meld CX Skunkworks
+- Built experience across personal projects and professional work with roughly 5 months of front-end development practice
 - Worked with Python projects involving Streamlit, Snowpark, Plotly, PDF generation, and AI-related tooling
 - Explored LLM and local-AI tooling with libraries such as Transformers, PyTorch, Hugging Face tooling, and voice/input automation
 - Touched .NET worker and edge-oriented project structure with C#, SQLite, logging, background services, and messaging-related packages
@@ -116,10 +120,29 @@
 
 Vite-based website with structured content management, responsive UI, form handling, and static deployment configuration.
 
+## Selected Work Across Accounts
+
+- Other GitHub accounts used for project work: [@Ralthology](https://github.com/Ralthology) and [@Ralisma](https://github.com/Ralisma)
+- Personal projects across accounts:
+  [rhythme](https://github.com/Ralthology/rhythme),
+  [local-builder](https://github.com/Ralisma/local-builder),
+  [muse_writing_partner](https://github.com/Ralisma/muse_writing_partner),
+  [Vite_Dashboard](https://github.com/Ralisma/Vite_Dashboard),
+  [dashboard-todo](https://github.com/Ralisma/dashboard-todo),
+  [OJT_TASK-1_INTRO-Login_Register_Dashboard](https://github.com/Ralthology/OJT_TASK-1_INTRO-Login_Register_Dashboard)
+- Public work on this account:
+  [Ralskies-OFFICIAL-WEBSITE](https://github.com/Ralimations/Ralskies-OFFICIAL-WEBSITE),
+  [Project_OSCAR](https://github.com/Ralimations/Project_OSCAR)
+- Professional and collaborative work:
+  [viana-edge](https://github.com/skunkral/viana-edge),
+  [GroupDetection](https://github.com/JessSkunk/GroupDetection),
+  [viana-portal-intern-2026](https://github.com/Joshua-SKUNK/viana-portal-intern-2026)
+- Additional company and private work is represented here through the skills, tooling, and categories of work involved when direct repository sharing is not appropriate
+
 ## Contact
 
 - GitHub: [@Ralimations](https://github.com/Ralimations)
 
 ---
 
-Private company projects are represented here only through the skills, tooling, and categories of work involved.
+Some public and personal projects live on other GitHub accounts. Company and private work is represented here through the skills, tooling, and categories of work involved unless sharing the repository is appropriate.
