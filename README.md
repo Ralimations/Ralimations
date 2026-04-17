@@ -19,6 +19,10 @@
     <td>5 months of front-end development work across personal projects and product-style implementations</td>
   </tr>
   <tr>
+    <td><strong>Academic background</strong></td>
+    <td>Student under Computer Applications, Major in Embedded Systems</td>
+  </tr>
+  <tr>
     <td><strong>Primary lane</strong></td>
     <td>Front-end engineering, dashboards, internal tools, content-driven interfaces, and maintainable UI systems</td>
   </tr>
@@ -91,6 +95,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Ralimations/guided-pose-program">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralimations&repo=guided-pose-program&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&cache_seconds=1800&v=3" alt="guided-pose-program repo card" />
+  </a>
+</div>
+
 | Project | Summary | Stack |
 | --- | --- | --- |
 | [FlexAI](https://github.com/Ralimations/flexai) | Fitness-focused app combining AI-assisted food analysis, tracking, and planning flows. | React, TypeScript, Vite |
@@ -99,6 +109,7 @@
 | [PulseVision Live Rep Counter](https://github.com/Ralimations/pulsevision-live-rep-counter) | Vision-based workout tracker with AI-assisted rep counting and feedback workflows. | React, TypeScript, Vite |
 | [Viana Builder](https://github.com/Ralimations/viana-builder) | Builder-style dashboard interface for dense operational layouts and modular workflows. | React, TypeScript, Vite |
 | [Viana Builder v2](https://github.com/Ralimations/viana-builderv2) | Second builder iteration focused on structured navigation and enterprise-style UI. | React, TypeScript, Vite |
+| [Guided Pose Program](https://github.com/Ralimations/guided-pose-program) | College finals project for pose-guided exercise assistance using computer vision and audio feedback. | Python, TensorFlow Lite, OpenCV |
 
 ## Case Studies
 
@@ -116,6 +127,9 @@
 
 - **Viana Builder / Viana Builder v2**
   Builder-style dashboard interfaces exploring dense operational layouts, modular navigation, and CMS-like patterns. These are closer to internal-tool thinking: structure, hierarchy, data visibility, and workflow density.
+
+- **Guided Pose Program**
+  College finals project focused on pose-guided exercise assistance using computer vision, TensorFlow Lite, and audio/visual feedback. This project connects more directly to my academic background in Computer Applications with an Embedded Systems focus.
 
 ## What I Build
 
